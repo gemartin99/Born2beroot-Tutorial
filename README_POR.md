@@ -1145,7 +1145,7 @@ Breve descrição de todos os tipos de divisórias:
 
 <img width="584" alt="Screen Shot 2022-11-18 at 2 45 11 PM" src="https://user-images.githubusercontent.com/66915274/202719000-dfc10731-7d29-4976-9867-d2a38e0f6407.png">
 
-2 ◦ Uma vez instalados os pacotes, devemos localizar-nos na pasta /var/wwww/ com o comando cd, aceder-lhe-emos. ```cd /var/wwww```.
+2 ◦ Uma vez instalados os pacotes, devemos localizar-nos na pasta /var/www/ com o comando cd, aceder-lhe-emos. ```cd /var/www```.
 
 <img width="361" alt="Screen Shot 2022-11-18 at 2 45 53 PM" src="https://user-images.githubusercontent.com/66915274/202719112-c238f259-2a59-41ea-bbaa-8676742b2ef2.png">
 

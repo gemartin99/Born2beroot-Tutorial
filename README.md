@@ -1233,7 +1233,7 @@ Descripción breve de todos los tipos de particiones:
 
 <img width="584" alt="Screen Shot 2022-11-18 at 2 45 11 PM" src="https://user-images.githubusercontent.com/66915274/202719000-dfc10731-7d29-4976-9867-d2a38e0f6407.png">
 
-2 ◦ Una vez hayamos instalado los paquetes nos debemos ubicar en la carpeta /var/www/ con el comando cd accederemos a ella ```cd /var/wwww```. Si no existe la carpeta la creamos con ```mkdir```.
+2 ◦ Una vez hayamos instalado los paquetes nos debemos ubicar en la carpeta /var/www/ con el comando cd accederemos a ella ```cd /var/www```. Si no existe la carpeta la creamos con ```mkdir```.
 
 <img width="361" alt="Screen Shot 2022-11-18 at 2 45 53 PM" src="https://user-images.githubusercontent.com/66915274/202719112-c238f259-2a59-41ea-bbaa-8676742b2ef2.png">
 
